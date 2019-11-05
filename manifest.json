@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "What's New in DevTools",
+  "short_name": "What's New",
+  "version": "0.0.1",
+  "devtools_page": "devtools.html",
+  "description": "What's New for Firefox DevTools",
+  "permissions": [
+      "storage"
+  ]
+}

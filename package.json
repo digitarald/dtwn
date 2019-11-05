@@ -1,0 +1,14 @@
+{
+  "name": "devtools-news",
+  "version": "1.0.0",
+  "description": "Firefox DevTools What's New",
+  "main": "index.js",
+  "scripts": {
+    "start:firefox": "web-ext run --firefox=nightly"
+  },
+  "author": "Harald Kirschner <npm@digitarald.com> (http://digitarald.de/)",
+  "license": "MIT",
+  "devDependencies": {
+    "web-ext": "^3.2.0"
+  }
+}
